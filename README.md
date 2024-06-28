@@ -26,3 +26,11 @@ Rotary Knob Switches are used to advance the underline position one place to the
 #### O Key = Simulates an Open Circuit on the current output condition
 #### F Key = Simulates a possible fault detected
 #### P Key = Simulates a Power Limit Exceeded condition
+### SLICE-FFC100
+#### F Key = Toggles availability of Load Limits and Plant settings on the Settings menu
+#### (Ctrl + P) Key = Decrements the PZT voltage by 0.5
+#### P Key = Increments the PZT voltage by 0.3
+#### (Ctrl + O) Key = Decrements the OSC Modulation current by 0.5
+#### O Key = Increments the OSC Modulation current by 0.5
+#### T Key = Triggers a Temperature Out of Range error
+#### I Key = Simulates an Interlock Circuit Open condition
